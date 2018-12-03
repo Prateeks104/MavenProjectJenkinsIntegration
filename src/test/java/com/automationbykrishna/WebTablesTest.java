@@ -21,6 +21,8 @@ public class WebTablesTest {
 		System.setProperty("webdriver.chrome.driver",
 				"C:/Users/Prateek/Downloads/chromedriver.exe");
 		
+		System.out.println();
+		
 		LinkedHashSet<String> hs=new LinkedHashSet<String>();
 	
 		HashMap<String, Integer> hMapOfEmp=new HashMap<String, Integer>();
