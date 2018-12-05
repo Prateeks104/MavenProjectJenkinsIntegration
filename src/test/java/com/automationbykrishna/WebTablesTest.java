@@ -19,7 +19,7 @@ public class WebTablesTest {
 	public static void Example() throws InterruptedException{
 		
 		System.setProperty("webdriver.chrome.driver",
-				"C:/Users/Prateek/Downloads/chromedriver.exe");
+				"F:/AutomationSelenium/MavenDemo/chromedriver.exe");
 		
 		System.out.println();
 		
